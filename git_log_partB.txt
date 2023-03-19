@@ -1,0 +1,83 @@
+commit f104fa82441e993026b924a47cad6eba4e365841
+Author: Soham <1260soham@gmail.com>
+Date:   Mon Mar 6 18:44:31 2023 +0530
+
+    Deleting file2.txt
+
+diff --git a/file1.txt b/file1.txt
+index cce2b6b..4c195fd 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1,2 @@
+ xx yy
++red
+\ No newline at end of file
+diff --git a/file2.txt b/file2.txt
+deleted file mode 100644
+index c636872..0000000
+--- a/file2.txt
++++ /dev/null
+@@ -1 +0,0 @@
+-2025 SDE
+\ No newline at end of file
+
+commit 6d341664bc490c5b005ee6778de8a2d5f47bab9c
+Author: Soham <1260soham@gmail.com>
+Date:   Mon Mar 6 18:03:30 2023 +0530
+
+    Graduation year and first job
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..c636872
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++2025 SDE
+\ No newline at end of file
+
+commit 626f5831f5ec933b64b65316126cd4937548ae84
+Author: Soham <1260soham@gmail.com>
+Date:   Mon Mar 6 17:34:56 2023 +0530
+
+    Added favorite restaurant and movie
+
+diff --git a/file1.txt b/file1.txt
+index 7ecf956..cce2b6b 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1 @@
+-Soham CSE
+\ No newline at end of file
++xx yy
+
+commit 9f6ecb636f646f020348afc20f268ad62fe3660b
+Author: Soham <1260soham@gmail.com>
+Date:   Mon Mar 6 17:25:48 2023 +0530
+
+    Now has my major
+
+diff --git a/file1.txt b/file1.txt
+index f867dbb..7ecf956 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1 @@
+-Soham BT21CSE043
+\ No newline at end of file
++Soham CSE
+\ No newline at end of file
+
+commit 2b13507bce8553d8248da0e4b530528166eaad5b
+Author: Soham <1260soham@gmail.com>
+Date:   Mon Mar 6 16:54:46 2023 +0530
+
+    Committing a new file with my name
+
+diff --git a/file1.txt b/file1.txt
+new file mode 100644
+index 0000000..f867dbb
+--- /dev/null
++++ b/file1.txt
+@@ -0,0 +1 @@
++Soham BT21CSE043
+\ No newline at end of file
